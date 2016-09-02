@@ -1,0 +1,7 @@
+[X] Walk the cat.
+[ ] Call Penelope.
+[ ] Book hotel for vacation.
+[X] Pay electric bill.
+[ ] Finish Boggle code challenge.
+[ ] Watch a movie with Greta.
+[X] Call Barry.
